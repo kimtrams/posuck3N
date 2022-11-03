@@ -1,0 +1,130 @@
+====block====debug:write_log port:5002
+id:0
+timestamp:0.0
+nonce:0
+prev_hash:0
+information.data:this is genesis block
+           .pos_trust:[100, 100, 100, 100]
+           .pos:1
+           .pos_mine:random
+source:0.0.0.0 0
+=============
+hash:bbb6166452b05bbde8aa1c3fa382fcad084cfaa2f8307e867d39c85f40150ef3
+=============
+====block====debug:write_log port:5002
+id:1
+timestamp:1667445514.31
+nonce:1331568688
+prev_hash:bbb6166452b05bbde8aa1c3fa382fcad084cfaa2f8307e867d39c85f40150ef3
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:1
+           .pos_mine:172.30.7.159 5002
+source:172.30.7.159 5000
+=============
+hash:aaf5f72c9bc031e628d97ca7f11f66de7dc7a7793c20240be00986208679f789
+=============
+====block====debug:write_log port:5002
+id:2
+timestamp:1667445517.45
+nonce:1523352838
+prev_hash:aaf5f72c9bc031e628d97ca7f11f66de7dc7a7793c20240be00986208679f789
+information.data:test 20000001 port 5001
+           .pos_trust:[102, 100, 111, 100]
+           .pos:1
+           .pos_mine:172.30.7.159 5002
+source:172.30.7.159 5001
+=============
+hash:a46e19fb1847763fb91db8fe8ce060c7ad09cb3cb293d27f573515127911131b
+=============
+====block====debug:write_log port:5002
+id:3
+timestamp:1667445523.11
+nonce:1094934541
+prev_hash:a46e19fb1847763fb91db8fe8ce060c7ad09cb3cb293d27f573515127911131b
+information.data:test 20000001 port 5002
+           .pos_trust:[100, 100, 122, 100]
+           .pos:1
+           .pos_mine:172.30.7.159 5000
+source:172.30.7.159 5002
+=============
+hash:ed233ff6e1013be40497b7a6831a23e830f27f2ed159e597c1c3a752800db2cd
+=============
+====block====debug:write_log port:5002
+id:4
+timestamp:1667445526.28
+nonce:958659020
+prev_hash:ed233ff6e1013be40497b7a6831a23e830f27f2ed159e597c1c3a752800db2cd
+information.data:test 20000002 port 5000
+           .pos_trust:[115, 100, 122, 100]
+           .pos:1
+           .pos_mine:172.30.7.159 5000
+source:172.30.7.159 5000
+=============
+hash:d86ec2b42c58b9777b80b2121900a025262eb80cb2de57707bb8f90abb85bd00
+=============
+====block====debug:write_log port:5002
+id:5
+timestamp:1667445531.0
+nonce:3053284082
+prev_hash:d86ec2b42c58b9777b80b2121900a025262eb80cb2de57707bb8f90abb85bd00
+information.data:test 20000001 port 5003
+           .pos_trust:[130, 100, 122, 100]
+           .pos:1
+           .pos_mine:172.30.7.159 5003
+source:172.30.7.159 5003
+=============
+hash:c2c79a1b7bd8b6f6a3b49de10570ba651e15a60116670659af611b700d543efa
+=============
+====block====debug:write_log port:5002
+id:6
+timestamp:1667445538.02
+nonce:3742924585
+prev_hash:c2c79a1b7bd8b6f6a3b49de10570ba651e15a60116670659af611b700d543efa
+information.data:test 20000003 port 5000
+           .pos_trust:[130, 111, 122, 111]
+           .pos:1
+           .pos_mine:172.30.7.159 5003
+source:172.30.7.159 5000
+=============
+hash:c22bf14921103ae9f6dcaa77ed311d739ae9bd5b441027d85dd925168cf5c282
+=============
+====block====debug:write_log port:5002
+id:7
+timestamp:1667445541.76
+nonce:3945561560
+prev_hash:c22bf14921103ae9f6dcaa77ed311d739ae9bd5b441027d85dd925168cf5c282
+information.data:test 20000002 port 5002
+           .pos_trust:[132, 111, 122, 122]
+           .pos:1
+           .pos_mine:172.30.7.159 5002
+source:172.30.7.159 5002
+=============
+hash:08b4b03933cf20800972aa07849f3f55efb42133f40d7e22f728a668b8f07163
+=============
+====block====debug:write_log port:5002
+id:8
+timestamp:1667445550.4
+nonce:190780783
+prev_hash:08b4b03933cf20800972aa07849f3f55efb42133f40d7e22f728a668b8f07163
+information.data:test 20000004 port 5000
+           .pos_trust:[136, 122, 133, 122]
+           .pos:1
+           .pos_mine:172.30.7.159 5000
+source:172.30.7.159 5000
+=============
+hash:a06116a25e94a6c2f64664ffaf5fb182037c98b0329dfa0eeebeb5870c849af3
+=============
+====block====debug:write_log port:5002
+id:9
+timestamp:1667445555.97
+nonce:772447972
+prev_hash:a06116a25e94a6c2f64664ffaf5fb182037c98b0329dfa0eeebeb5870c849af3
+information.data:test 20000002 port 5003
+           .pos_trust:[149, 122, 133, 122]
+           .pos:1
+           .pos_mine:172.30.7.159 5002
+source:172.30.7.159 5003
+=============
+hash:eb57845a7922316ac67b5110be2a7c440a89ccbebce8d609322ffb3348004c16
+=============
